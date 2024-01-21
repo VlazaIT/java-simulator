@@ -4,8 +4,6 @@ This Supermarket Simulator is a Java-based application utilizing JavaFX for the 
 database management. The project employs multithreading techniques and leverages the Poisson distribution for simulating
 customer arrivals.
 
-<iframe width="560" height="315" src="https://youtu.be/_EMkGNqOkQY?si=TpGKNYVAiALI25ED" frameborder="0" allowfullscreen></iframe>
-
 ## Table of Contents
 
 - [Overview](#overview)
