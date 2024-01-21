@@ -1,0 +1,19 @@
+.container {
+    -fx-background-color: #F2FFE9;
+    -fx-pref-width: 1000px;}
+
+.input_label {
+    -fx-font-size: 13px;
+    -fx-fill: #000000; }
+
+.btn {
+    -fx-background-color: #1B4332;
+    -fx-text-fill: white;
+    -fx-font-size: 13px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand; }
+
+.btn FontAwesomeIconView {
+    -fx-fill: white;
+    -fx-font-size: 13px; }
